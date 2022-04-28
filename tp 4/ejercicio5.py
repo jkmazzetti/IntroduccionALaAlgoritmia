@@ -18,5 +18,3 @@ promedio/=i
 print ("El promedio es: ", promedio, "\n")
 print ("El maximo es: ", maximo, "\n")
 print ("El minimo es: ", minimo )
-        
-    
